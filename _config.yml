@@ -1,3 +1,5 @@
 theme: jekyll-theme-architect
-title: 'Movie Talkers'
-description: 'Movies we Talk'
+title: Architect theme
+description: Architect is a theme for GitHub Pages.
+show_downloads: false
+google_analytics:

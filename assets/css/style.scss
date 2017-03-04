@@ -24,7 +24,11 @@
     width: 690px;
 }
 
-#main-content h1:before {
-    margin-left: -0em;
-    content: "#";
+#main-content {
+	h1, h2, h3, h4, h5, h6{
+		&:before {
+    			margin-left: -0em;
+    			content: "#";
+		}
+	}
 }

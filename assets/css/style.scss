@@ -19,6 +19,11 @@
 	height:100%;
 }
 
+#main-content {
+    float: none;
+    width: 690px;
+}
+
 #main-content h1:before {
     margin-left: -0em;
     content: "#";

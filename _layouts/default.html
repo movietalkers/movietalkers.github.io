@@ -13,7 +13,7 @@
     <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
     <![endif]-->
 
-    <title>{{ site.title | default: site.github.repository_name }} by {{ site.github.owner_name }}</title>
+    <title>{{ site.title | default: site.github.repository_name }} - {{ site.description | default: site.github.project_tagline }}</title>
   </head>
 
   <body>
@@ -23,7 +23,9 @@
           <h1>{{ site.title | default: site.github.repository_name }}</h1>
         </a>
         <h2>{{ site.description | default: site.github.project_tagline }}</h2>
+        <a href="#"><img src="/images/rss.png" alt="RSS feed" title="RSS feed" > </img></a>
       </div>
+      <a href="#"><img src="/images/rss.png" alt="RSS feed" title="RSS feed" > </img></a>
     </header>
 
     <div id="content-wrapper">
@@ -31,8 +33,6 @@
         <section id="main-content">
           {{ content }}
         </section>
-
-        
       </div>
     </div>
 

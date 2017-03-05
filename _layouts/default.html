@@ -19,13 +19,21 @@
   <body>
     <header>
       <div class="inner">
+        <a href="#" class="button">
+          <img src="/images/rss.png" alt="podcast's RSS feed" title="podcast's RSS feed">
+        </a>
+        <a href="#" class="button">
+          <img src="/images/facebook.png" alt="podcast's Facebook page" title="podcast's Facebook page">
+        </a>
+        <a href="#" class="button">
+          <img src="/images/twitter.png" alt="podcast's Twitter" title="podcast's Twitter">
+        </a>
+
         <a href="{{ '/' | absolute_url }}">
           <h1>{{ site.title | default: site.github.repository_name }}</h1>
         </a>
         <h2>{{ site.description | default: site.github.project_tagline }}</h2>
-        <a href="#"><img src="/images/rss.png" alt="RSS feed" title="RSS feed" > </img></a>
       </div>
-      <a href="#"><img src="/images/rss.png" alt="RSS feed" title="RSS feed" > </img></a>
     </header>
 
     <div id="content-wrapper">

@@ -2,4 +2,20 @@ theme: jekyll-theme-architect
 title: מדברים בסרט
 description: ערוץ הקומנטרי של בתי הקולנוע
 show_downloads: false
-google_analytics:
+google_analytics: true
+highlighter: rouge
+encoding: bom|utf-8
+# email:
+# baseurl: "" # the subpath of your site, e.g. /blog
+# url: "" # the base hostname & protocol for your site, e.g. http://example.com
+# twitter_username: jekyllrb
+# github_username:  jekyll
+
+# Build settings
+# markdown: kramdown
+# theme: minima
+# gems:
+#   - jekyll-feed
+# exclude:
+#   - Gemfile
+#   - Gemfile.lock

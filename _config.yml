@@ -3,3 +3,11 @@ title: מדברים בסרט
 description: ערוץ הקומנטרי של בתי הקולנוע
 show_downloads: false
 google_analytics:
+
+url: www.movietalker.com
+twitter_username: MovieTalkerCast
+facebook:
+ publisher: https://www.facebook.com/MovieTalkerCast/
+
+gems:
+ - jekyll-seo-tag

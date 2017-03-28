@@ -11,15 +11,16 @@
 אז האיש הזה הוא אנחנו! וכשירות לציבור החלטנו אחת ולתמיד להקליט את ההגיגים שלנו, שיהיה לדורות הבאים.
 
 <div class="video-container">
-<iframe src="https://www.youtube.com/embed/8-KIk1s0CLo" frameborder="0" allowfullscreen></iframe>
+<iframe src="https://podswell.com/demoplayer/podswell/sha/5a0c93fca21c4212aa598c73d6eb249bd36c3e75.mp3?name=movietalker" frameborder="0" allowfullscreen></iframe>
 </div>
+
 
 
 
 #  מי אנחנו
 ![מדברים בסרט - התמונה](/images/podcast.jpg "מי אנחנו")
 ## דין לנגסם
-> כבר בכיתה ב, זכה בתואר המחייב 'יש לו פוטנציאל אבל הוא לא מנצל אותו' מהמורה שולה.
+> כבר בכיתה ב' זכה בתואר המחייב 'יש לו פוטנציאל אבל הוא לא מנצל אותו' מהמורה שולה.
 > מאוחר יותר, בכיתה ט, שבר את שיא ההרשמות על דיבור בכיתה
 
 ## זהר זקס

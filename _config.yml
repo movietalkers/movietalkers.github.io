@@ -2,7 +2,6 @@ theme: jekyll-theme-architect
 title: מדברים בסרט
 description: ערוץ הקומנטרי של בתי הקולנוע
 show_downloads: false
-<<<<<<< HEAD
 google_analytics: true
 highlighter: rouge
 encoding: bom|utf-8
@@ -20,8 +19,6 @@ encoding: bom|utf-8
 # exclude:
 #   - Gemfile
 #   - Gemfile.lock
-=======
-google_analytics:
 
 url: www.movietalker.com
 twitter_username: MovieTalkerCast
@@ -30,4 +27,4 @@ facebook:
 
 gems:
  - jekyll-seo-tag
->>>>>>> eaef49c6c5a05a5d8282248a58966223b386c076
+

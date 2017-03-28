@@ -23,6 +23,7 @@ encoding: bom|utf-8
 url: www.movietalker.com
 twitter_username: MovieTalkerCast
 facebook:
+ app_id: 1706357636323233
  publisher: https://www.facebook.com/MovieTalkerCast/
 
 gems:

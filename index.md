@@ -25,7 +25,8 @@
 > נושא בתואר לרלרן של כבוד מאז שנת 2015, אז דיבר במשך 45 דקות על ההבדל בין תפוז סיני.
 > מאוחר יותר נזרק מהקרנה בשעת תרבות בבית האבות 'גיל לזיקנה'
 
-site.posts.size {{ site.posts.size}}
-{% for post in site.posts %}
-  {{ site.baseurl }}{{ post.url }}
+site {{ site }}
+site.posts.size {{ site.posts.size }}
+{% for cast in site.posts %}
+  {{ site.baseurl }}{{ cast.url }}
 {% endfor %}

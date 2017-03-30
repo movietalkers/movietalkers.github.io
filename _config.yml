@@ -21,3 +21,4 @@ facebook:
 gems:
  - jekyll-seo-tag
 
+include: ['_posts']

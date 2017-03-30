@@ -20,6 +20,8 @@ encoding: bom|utf-8
 #   - Gemfile
 #   - Gemfile.lock
 
+permalink: /:title/
+
 url: www.movietalker.com
 twitter_username: MovieTalkerCast
 facebook:

@@ -15,6 +15,10 @@
 </div>
 
 
+site.posts.size {{ site.posts.size}}
+{% for post in site.posts %}
+  {{ site.baseurl }}{{ post.url }}
+{% endfor %}
 
 
 #  מי אנחנו

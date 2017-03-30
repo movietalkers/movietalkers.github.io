@@ -5,20 +5,12 @@ show_downloads: false
 google_analytics: true
 highlighter: rouge
 encoding: bom|utf-8
-# email:
-# baseurl: "" # the subpath of your site, e.g. /blog
-# url: "" # the base hostname & protocol for your site, e.g. http://example.com
-# twitter_username: jekyllrb
-# github_username:  jekyll
+permalink: /:title/
 
-# Build settings
-# markdown: kramdown
-# theme: minima
-# gems:
-#   - jekyll-feed
-# exclude:
-#   - Gemfile
-#   - Gemfile.lock
+exclude:
+ - Gemfile
+ - Gemfile.lock
+ - README.md
 
 url: www.movietalker.com
 twitter_username: MovieTalkerCast

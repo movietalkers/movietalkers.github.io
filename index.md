@@ -11,7 +11,7 @@
 אז האיש הזה הוא אנחנו! וכשירות לציבור החלטנו אחת ולתמיד להקליט את ההגיגים שלנו, שיהיה לדורות הבאים.
 
 <div class="video-container">
-<iframe src="https://podswell.com/demoplayer/podswell/sha/5a0c93fca21c4212aa598c73d6eb249bd36c3e75.mp3?name=movietalker" frameborder="0" allowfullscreen></iframe>
+<iframe  width="600" height="200" src="https://podswell.com/demoplayer/podswell/sha/5a0c93fca21c4212aa598c73d6eb249bd36c3e75.mp3?name=movietalker" frameborder="0" ></iframe>
 </div>
 
 

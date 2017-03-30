@@ -10,16 +10,10 @@
 
 אז האיש הזה הוא אנחנו! וכשירות לציבור החלטנו אחת ולתמיד להקליט את ההגיגים שלנו, שיהיה לדורות הבאים.
 
+# אז מה נשמע?
 <div class="video-container">
-<iframe  width="600" height="200" src="https://podswell.com/demoplayer/podswell/sha/5a0c93fca21c4212aa598c73d6eb249bd36c3e75.mp3?name=movietalker" frameborder="0" ></iframe>
+<iframe  src="https://podswell.com/demoplayer/podswell/sha/5a0c93fca21c4212aa598c73d6eb249bd36c3e75.mp3?name=movietalker" frameborder="0" ></iframe>
 </div>
-
-
-site.posts.size {{ site.posts.size}}
-{% for post in site.posts %}
-  {{ site.baseurl }}{{ post.url }}
-{% endfor %}
-
 
 #  מי אנחנו
 ![מדברים בסרט - התמונה](/images/podcast.jpg "מי אנחנו")
@@ -30,3 +24,8 @@ site.posts.size {{ site.posts.size}}
 ## זהר זקס
 > נושא בתואר לרלרן של כבוד מאז שנת 2015, אז דיבר במשך 45 דקות על ההבדל בין תפוז סיני.
 > מאוחר יותר נזרק מהקרנה בשעת תרבות בבית האבות 'גיל לזיקנה'
+
+site.posts.size {{ site.posts.size}}
+{% for post in site.posts %}
+  {{ site.baseurl }}{{ post.url }}
+{% endfor %}

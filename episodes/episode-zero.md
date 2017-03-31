@@ -16,8 +16,8 @@ image : /images/podcast.jpg
 
 לא ניתוחים משמימים על משמעות היצירה אלא יותר כמו איך לעזאזל כל כך קל לפרוץ לפנטגון.
 
-<div class="video-container">
-<iframe  src="{{ page.episode }}" frameborder="0" ></iframe>
+<div>
+<iframe width="100%" height="100" scrolling="no" frameborder="no" src="{{ page.episode }}"></iframe>
 </div>
 
  בשבוע הבא: Blade Runner

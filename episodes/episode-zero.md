@@ -3,6 +3,7 @@ published: true
 title: פרק אפס - מה אנחנו עושים פה?
 episode: https://podswell.com/demoplayer/podswell/sha/5a0c93fca21c4212aa598c73d6eb249bd36c3e75.mp3?name=movietalker
 image : /images/podcast.jpg
+episode-number: 0
 ---
 # יש לנו מלא דעות
 

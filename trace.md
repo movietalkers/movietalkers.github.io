@@ -1,7 +1,12 @@
-<pre direction="ltr">
-    site
-     {{ site | inspect }}
-</pre>
+---
+layout: trace
+---
+
+# Jsonify
+{{ site | jsonify }}
+# inspect
+{{ site | inspect }}
+
 
 _____
 

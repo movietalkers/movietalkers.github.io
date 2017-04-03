@@ -12,7 +12,7 @@ exclude:
  - Gemfile.lock
  - README.md
 
-url: www.movietalker.com
+url: http://www.movietalker.com
 twitter_username: MovieTalkerCast
 facebook:
  app_id: 1706357636323233

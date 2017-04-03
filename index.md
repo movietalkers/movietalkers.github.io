@@ -22,6 +22,8 @@ image : /images/podcast.jpg
 <iframe  src="https://podswell.com/demoplayer/podswell/sha/5a0c93fca21c4212aa598c73d6eb249bd36c3e75.mp3?name=movietalker" frameborder="0" ></iframe>
 </div>
 
+# אני רוצה עוד מכל הטוב הזה!
+שום בעיה, הנה [רשימת כל הפרקים שלנו](/episodes) וחוץ מזה אפשר להרשם לרסס שלנו פה למעלה
 
 #  מי אנחנו
 ![מדברים בסרט - התמונה]({{ page.image }})

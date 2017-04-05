@@ -15,7 +15,7 @@ episode-number: 2
 
 `דין עדיין לא בטוח שזהר לא מושתל של הקבוצה היריבה`
 
-[BASEketball](http://www.imdb.com/title/tt0131857/)
+מלא פרטים על [BASEketball](http://www.imdb.com/title/tt0131857/)
 
  
 

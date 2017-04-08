@@ -5,7 +5,7 @@ episode: https://podswell.com/demoplayer/podswell/sha/b979b57cc9d86b45b347641e25
 image : /images/ep1.jpg
 episode-number: 1
 ---
-# פרק 1: בלייד ראנר - להוולד, לעשות צבא, למות.
+# פרק 1 - בלייד ראנר - להוולד, לעשות צבא, למות.
 
 ![]({{ page.image }})
 

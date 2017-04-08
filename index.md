@@ -12,7 +12,12 @@ image : /images/podcast.jpg
 אז האיש הזה הוא אנחנו! וכשירות לציבור החלטנו אחת ולתמיד להקליט את ההגיגים שלנו, שיהיה לדורות הבאים.
 
 # אז מה נשמע?
-##  פרק 1: בלייד ראנר - להוולד, לעשות צבא, למות.
+##  פרק 2 - בייסקטבול - עושים שיגועים.
+<div>
+<iframe width="100%" height="100" scrolling="no" frameborder="no" src="https://podswell.com/demoplayer/podswell/sha/b979b57cc9d86b45b347641e2536b6b9b05ef9d3.mp3?name=movietalker"></iframe>
+</div>
+
+##  פרק 1 - בלייד ראנר - להוולד, לעשות צבא, למות.
 <div>
 <iframe width="100%" height="100" scrolling="no" frameborder="no" src="https://podswell.com/demoplayer/podswell/sha/b979b57cc9d86b45b347641e2536b6b9b05ef9d3.mp3?name=movietalker"></iframe>
 </div>

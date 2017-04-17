@@ -8,8 +8,8 @@ episode: http://podswell.com/redirect/podswell/sha/01da83f4ffcc4172c50f73ff187ee
 image : /images/ep3.jpg
 episode-number: 3
 next-week: V for Vendetta (2005)
-
----זהר לומד על היפנים במלחמת העולם השניה.
+---
+זהר לומד על היפנים במלחמת העולם השניה.
 
 דין לא מבין למה כל הרשעים באייטיז הם בלונדינים.
 

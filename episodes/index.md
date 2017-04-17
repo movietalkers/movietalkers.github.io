@@ -7,7 +7,7 @@
 {% assign episodes = site.pages | sort: "episode-number" %}
 {% for p in episodes reversed %}
     {% if p.episode-number >= 0 %}
-        <img src="..{{ p.image }}">
+        <img src="..{{ p.image }}" style="display:inline-block; height: 100px; width: 100%;">
         <h2> <a href="{{ site.baseurl }}{{ p.url }}">{{ p.title }}</a> </h2>
 
     {% endif %}

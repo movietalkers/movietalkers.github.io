@@ -6,6 +6,8 @@ episode: https://podswell.com/redirect/podswell/sha/2f2ff08b460ae62b1f41c05d068e
 image : /images/ep2.jpg
 episode-number: 2
 next-week: Karate Kid (1984)
+imdb: tt0131857
+movie: BASEketball
 ---
 זהר הבין היום שהכדור מת מצחוק (השם העברי) זה בדיוק כמו האקדח מת מצחוק, רק דור אחד אחורה
 .
@@ -13,10 +15,3 @@ next-week: Karate Kid (1984)
 
 `דין עדיין לא בטוח שזהר לא מושתל של הקבוצה היריבה`
 
-מלא פרטים על [BASEketball](http://www.imdb.com/title/tt0131857/)
-
- 
-
- 
-
- 

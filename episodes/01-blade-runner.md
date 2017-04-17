@@ -2,6 +2,8 @@
 layout: episode
 published: true
 title: פרק 1 - בלייד ראנר - להוולד, לעשות צבא, למות.
+movie: Blade Runnder
+imdb: tt0083658
 episode: https://podswell.com/demoplayer/podswell/sha/b979b57cc9d86b45b347641e2536b6b9b05ef9d3.mp3?name=movietalker
 image : /images/ep1.jpg
 episode-number: 1

@@ -4,7 +4,7 @@ published: true
 title: 	פרק 4 - ונדטה - לכל פעולה יש תגובה קלישאתית
 movie: V for Vendetta
 imdb: tt0434409
-episode: 
+episode: http://podswell.com/redirect/podswell/sha/26d752cbb2b7379fad8bb1b6186ed790c6a083ae.mp3?name=movietalker
 image : /images/ep4.jpg
 episode-number: 4
 next-week: Big Fish (2003)

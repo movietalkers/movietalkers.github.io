@@ -1,0 +1,20 @@
+---
+layout: episode
+published: false
+title: 	פרק 7
+movie: Trainspotting
+imdb: tt0117951
+episode: 
+ep-file: 
+episode-number: 7
+test-me : :title
+image : /images/ep7.jpg
+next-week: 
+---
+זהר התמוגג ופטפט ללא הפסקה על אחד הסרטים שעיצבו אותו.
+
+דין התרגש מהחלקים הצנועים יותר באישיות של טים ברטון.
+
+זהר ודין הבינו שאם ייצא סרט על הפודקאסט, הלנה בונהם קארטר תשחק את שניהם.
+
+**דין עדיין לא בטוח שזהר לא המציא את כל הפודקאסט הזה.**

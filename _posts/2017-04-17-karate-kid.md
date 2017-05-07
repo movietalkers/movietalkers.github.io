@@ -1,12 +1,11 @@
 ---
 layout: post
-published: true
+date: 2017-04-17 18:00
 title: פרק 3 - קארטה קיד - פושטקים בלונדינים. יש דבר כזה
 movie: Karate Kid
 imdb: tt0087538
 episode: http://podswell.com/redirect/podswell/sha/01da83f4ffcc4172c50f73ff187ee2285009ad9a.mp3?name=movietalker
-ep-file: 01da83f4ffcc4172c50f73ff187ee2285009ad9a.mp3
-image : /images/ep3.jpg
+image : /assets/images/ep3.jpg
 episode-number: 3
 next-week: V for Vendetta (2005)
 ---

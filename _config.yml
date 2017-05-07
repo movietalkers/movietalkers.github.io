@@ -11,7 +11,7 @@ description: ערוץ הקומנטרי של בתי הקולנוע
 
 email: a-mail@mail.mail
 #blog logo
-logo: "/assets/images/logo.jpg"
+logo: "/assets/images/logo.png"
 float_logo: true # true, false (default)
 
 # blog cover
@@ -23,8 +23,8 @@ cover: /assets/images/podcast.jpg
 
 paginate:	5
 
-url: "http://myblog.***.***" # the base hostname & protocol for your site
-baseurl: ""
+# url: http://***.*** # the base hostname & protocol for your site
+# baseurl: movietalker.com
 #used to display twitter cards
 twitter_handle: '@MovieTalkerCast'
 
@@ -36,25 +36,25 @@ twitter_handle: '@MovieTalkerCast'
 # social icons and sharing options
 social:
   - icon:	twitter
-    url:	https://twitter.com/dirkfabisch
-    desc: Follow me on twitter
+    url:	https://twitter.com/MovieTalkerCast
+    desc: פה אנחנו מצייצים
     share_url: http://twitter.com/share
     share_title: ?text=
     share_link: "&amp;url="
 
-#  - icon:	facebook
-#    url:	https://facebook.com/???
-#    desc: Connect with me facebook
-#    share_url: https://www.facebook.com/sharer.php
-#    share_title: ?t=
-#    share_link: "&amp;u="
+  - icon:	facebook
+    url:	https://facebook.com/MovieTalkerCast/
+    desc: בקרו אותנו בפייסבוק
+    share_url: https://www.facebook.com/sharer.php
+    share_title: ?t=
+    share_link: "&amp;u="
 
-  - icon:	github
-    url:	https://github.com/dirkfabisch
-    desc:	Fork me on github
-    share_url:
-    share_title:
-    share_link:
+  # - icon:	github
+  #   url:	https://github.com/dirkfabisch
+  #   desc:	Fork me on github
+  #   share_url:
+  #   share_title:
+  #   share_link:
 
 #  - icon:	google-plus
 #    url:	https://google.com/???
@@ -76,7 +76,7 @@ social:
 # show_downloads: false
 # google_analytics: true
 
-# permalink: /:title/
+permalink: /:title/
 # url: http://www.movietalker.com
 
 # exclude:

@@ -1,4 +1,5 @@
 ---
+date: 2017-05-14 18:00
 layout: post
 published: false
 title: 	פרק 7
@@ -8,7 +9,7 @@ episode:
 ep-file: 
 episode-number: 7
 test-me : :title
-image : /images/ep7.jpg
+image : /assets/images/ep7.jpg
 next-week: 
 ---
 זהר התמוגג ופטפט ללא הפסקה על אחד הסרטים שעיצבו אותו.

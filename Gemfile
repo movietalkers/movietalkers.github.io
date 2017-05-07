@@ -1,3 +1,6 @@
 source 'https://rubygems.org'
-gem 'github-pages', group: :jekyll_plugins 
-gem 'jekyll-seo-tag'
+
+# 'github-pages' includes 'jekyll' gem 
+gem 'github-pages'
+gem 'bourbon'
+# gem 'jemoji' # no need for emoji support

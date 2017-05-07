@@ -1,13 +1,13 @@
 
 # Build settings
 gems:
-  - jemoji
+#   - jemoji # emoji plugin
   - jekyll-paginate
 
 # Site settings
-title: "Open Amdocs Technical Blog"
-description: > # this means to ignore newlines until "email:"
-   Home of all technical articles about Amdocs open source activity
+title: מדברים בסרט
+# description: > # this means to ignore newlines until "email:"
+description: ערוץ הקומנטרי של בתי הקולנוע
 
 email: a-mail@mail.mail
 #blog logo
@@ -15,18 +15,18 @@ logo: "/assets/images/logo.jpg"
 float_logo: true # true, false (default)
 
 # blog cover
-cover: "/assets/images/amdocs-2017-brand-desktop-wallpaper-1920x1200.jpg"
+cover: /assets/images/podcast.jpg
 
-name: 'Dirk Fabisch'
-author: 'Dirk Fabisch'
-author_image: "/assets/images/author.jpg"
+# name: 'Dirk Fabisch'
+# author: 'Dirk Fabisch'
+# author_image: "/assets/images/author.jpg"
 
 paginate:	5
 
 url: "http://myblog.***.***" # the base hostname & protocol for your site
 baseurl: ""
 #used to display twitter cards
-twitter_handle: '@dirkfabisch'
+twitter_handle: '@MovieTalkerCast'
 
 #fill in disqus shortname to use disqus
 #disqus: disqus-shortname

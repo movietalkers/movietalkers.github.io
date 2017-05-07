@@ -1,5 +1,5 @@
 ---
-layout: episode
+layout: post
 published: true
 title: פרק 3 - קארטה קיד - פושטקים בלונדינים. יש דבר כזה
 movie: Karate Kid

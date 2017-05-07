@@ -1,5 +1,5 @@
 ---
-layout: episode
+layout: post
 published: true
 title: פרק 1 - בלייד ראנר - להוולד, לעשות צבא, למות.
 movie: Blade Runnder

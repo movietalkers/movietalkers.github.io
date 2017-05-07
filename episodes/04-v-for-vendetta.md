@@ -1,5 +1,5 @@
 ---
-layout: episode
+layout: post
 published: true
 title: 	פרק 4 - ונדטה - לכל פעולה יש תגובה קלישאתית
 movie: V for Vendetta

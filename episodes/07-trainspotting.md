@@ -1,5 +1,5 @@
 ---
-layout: episode
+layout: post
 published: false
 title: 	פרק 7
 movie: Trainspotting

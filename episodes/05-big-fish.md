@@ -1,5 +1,5 @@
 ---
-layout: episode
+layout: post
 published: true
 title: 	פרק 5 - סיפורי דגים - בוכים כמו ילדה עם קוקיות
 movie: Big Fish

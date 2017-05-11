@@ -3,6 +3,7 @@
 gems:
 #   - jemoji # emoji plugin
   - jekyll-paginate
+  - jekyll-redirect-from
 
 # Site settings
 title: מדברים בסרט

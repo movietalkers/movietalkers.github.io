@@ -9,6 +9,7 @@ ep-file: b979b57cc9d86b45b347641e2536b6b9b05ef9d3.mp3
 image : /assets/images/ep1.jpg
 episode-number: 1
 next-week: BASEketball
+permalink: /episodes/01-:title/
 ---
 זהר מת על בלייד ראנר.
 

@@ -10,6 +10,7 @@ episode-number: 4
 test-me : :title
 image : /assets/images/ep4.jpg
 next-week: Big Fish (2003)
+permalink: /episodes/04-:title/
 ---
 זהר הרגיש שהוא מקבל מסרים קליאשתיים בהגשה טיפה אחרת.
 

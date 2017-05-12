@@ -9,6 +9,7 @@ ep-file: 01da83f4ffcc4172c50f73ff187ee2285009ad9a.mp3
 image : /assets/images/ep3.jpg
 episode-number: 3
 next-week: V for Vendetta (2005)
+permalink: /episodes/03-:title/
 ---
 זהר לומד על היפנים במלחמת העולם השניה.
 

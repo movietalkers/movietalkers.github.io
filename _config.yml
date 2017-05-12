@@ -3,7 +3,6 @@
 gems:
 #   - jemoji # emoji plugin
   - jekyll-paginate
-  - jekyll-redirect-from
 
 # Site settings
 title: מדברים בסרט
@@ -77,7 +76,7 @@ social:
 # show_downloads: false
 # google_analytics: true
 
-permalink: /:title/
+permalink: /episodes/:title/
 # url: http://www.movietalker.com
 
 # exclude:

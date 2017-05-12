@@ -9,7 +9,6 @@ episode-number: 2
 next-week: Karate Kid (1984)
 imdb: tt0131857
 movie: BASEketball
-permalink: /episodes/02-:title/
 ---
 זהר הבין היום שהכדור מת מצחוק (השם העברי) זה בדיוק כמו האקדח מת מצחוק, רק דור אחד אחורה
 .

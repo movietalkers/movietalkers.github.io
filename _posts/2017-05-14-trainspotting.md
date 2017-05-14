@@ -5,8 +5,8 @@ date: 2017-05-14 6:00
 title: 	פרק 7 - טריינספוטינג - כל רגע הוא בום טרח טרללקה
 movie: Trainspotting
 imdb: tt0117951
-episode: 
-ep-file: 
+episode: http://podswell.com/redirect/podswell/sha/a8c46d74b565d455db55bfda7d957e1d1581d3a4.mp3?name=movietalker
+ep-file: a8c46d74b565d455db55bfda7d957e1d1581d3a4.mp3
 episode-number: 7
 test-me : :title
 image : /assets/images/ep7.jpg

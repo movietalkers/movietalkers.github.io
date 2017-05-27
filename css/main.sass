@@ -8,7 +8,7 @@
 .cf
   @include clearfix
 
-$rs: 16px
+$rs: 24px
 
 $font-serif: Linux Libertine
 $font-sans: Open Sans, MundoSans, "Helvetica Neue", Arial, Helvetica, sans-serif
@@ -130,14 +130,22 @@ body
 
 .content
   width: 100%
-  max-width: 640px
+  max-width: 1080px
   margin: 0 auto
   @include box-sizing(border-box)
   @include respond-to(800)
     padding: 0 $rs*2
   article
-    padding: 40px 0
+    min-height: 200px
+    padding: 20px 0
     border-bottom: 1px solid #f2f2f0
+    // margin-bottom: 20px 
+    .post-image
+      block: inline
+      float: right
+      height: 200px
+      margin-left: 20px
+      clear: both
     &:last-child
       border-bottom: 0px
     .post-title
@@ -161,6 +169,7 @@ body
       line-height: 1.3
       color: #666665
     .post-meta
+      display: inline
       font-size: 14px
       color: #b3b3b1
       line-height: 30px
@@ -232,6 +241,7 @@ body
     &:hover
       color: #333
 .post
+  direction: rtl
   .article-image
     position: absolute
     background-color: #000

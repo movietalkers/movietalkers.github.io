@@ -9,6 +9,7 @@ ep-file: 26d752cbb2b7379fad8bb1b6186ed790c6a083ae.mp3
 episode-number: 4
 test-me : :title
 image : /assets/images/ep4.jpg
+cover : /assets/images/ep4.jpg
 next-week: Big Fish (2003)
 permalink: /episodes/04-:title/
 ---

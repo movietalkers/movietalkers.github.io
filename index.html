@@ -54,19 +54,23 @@ layout: default
     <h5 class="index-headline normal"><span>Regular</span></h5>
     {% endif %}
 
+<!-- Episodes begin here -->
     <div class="cf frame">
       {% for post in paginator.posts %}
         <article class="post" itemscope itemtype="http://schema.org/BlogPosting" role="article">
+          <img class="post-image" src="{{post.image}}" alt="{{ post.movie }}">
           <div class="article-item">
+          <!-- image -->
             <header class="post-header">
               <h2 class="post-title" itemprop="name"><a href="{{ post.url | prepend: site.baseurl }}" itemprop="url">{{ post.title }}</a></h2>
             </header>
+                        <div class="post-meta">
+              <time datetime="{{ post.date | date_to_long_string }}">{{ post.date | date_to_long_string }}</time>
+            </div>
             <section class="post-excerpt" itemprop="description">
               <p>{{ post.excerpt | strip_html | truncatewords: 50 }}</p>
             </section>
-            <div class="post-meta">
-              <time datetime="{{ post.date | date_to_long_string }}">{{ post.date | date_to_long_string }}</time>
-            </div>
+
           </div>
         </article>
       {% endfor %}

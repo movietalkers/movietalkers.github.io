@@ -2,15 +2,15 @@
 date: 2017-06-17 6:00
 layout: post
 title: 	פרק 12 - מכסחי השדים - סיינטולוגים בחשכה
-movie: Hackers
-imdb: tt0113243
-episode: 11
+movie: Moneyball
+imdb: tt0087332
+episode: 12
 ep-file: 
 episode-number: 12
 test-me : :title
 image : /assets/images/ep12.jpg
 cover : /assets/images/ep12-cover.jpg
-next-week: Ghostbusters (1984)
+next-week: Moneyball (2003)
 ---
 אתם מאמינים בשדים? כי על זה דיברנו... שדים, רוחות, דיבוק, שכר דירה בניו יורק, סיינטולוגיה, כתות ושוב, כמובן, עסקנו באיך היה אפשר להיות קריפ שוביניסט בשנות ה80, ולצאת מזה בסבבה.
 

@@ -3,15 +3,15 @@ published: False
 date: 2017-06-09 6:00
 layout: post
 title: 	פרק 11 - האקרז - פורצים את הרסר
-movie: Hackers
-imdb: tt0113243
-episode: 11
-ep-file: 45b8db388be948c205bb3ecfaa3b0ff2abb66979.mp3
-episode-number: 11
+movie: Moneyball
+imdb: tt1210166
+episode: 13
+ep-file: 
+episode-number: 13
 test-me : :title
-image : /assets/images/ep11.jpg
-cover : /assets/images/ep11-cover.jpg
-next-week: Ghostbusters (1984)
+image : /assets/images/ep13.jpg
+cover : /assets/images/ep13-cover.jpg
+next-week: Pirates of the Caribbean The Curse of the Black Pearl (2003)
 ---
 אירחנו את קרן אלעזרי - האקרית, חוקרת אבטחה, יועצת ומה לא. דיברנו איתה על האקינג, תרבות ההאקרים, תחרויות בין מחשבים, כנסים, איך זה להיות אישה בעולם שנחשב גברי, ואיך לאט לאט יותר נשים נכנסות לתחום. היה כיף לאללה ואם אתם רוצים עוד מקרן נסו את הלינקים הבאים
 

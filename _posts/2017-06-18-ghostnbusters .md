@@ -1,11 +1,11 @@
 ---
-date: 2017-06-17 6:00
+date: 2017-06-18 6:00
 layout: post
 title: 	פרק 12 - מכסחי השדים - סיינטולוגים בחשכה
 movie: Moneyball
 imdb: tt0087332
 episode: 12
-ep-file: 
+ep-file: f8448065528388eb093adaecf46e9b95ac440a8b.mp3
 episode-number: 12
 test-me : :title
 image : /assets/images/ep12.jpg

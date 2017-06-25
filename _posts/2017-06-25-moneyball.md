@@ -5,7 +5,7 @@ title: 	פרק 13 - מאניבול - אוריאל דסקל לא מזכיר שמ�
 movie: Moneyball
 imdb: tt1210166
 episode: 13
-ep-file: 
+ep-file: 00a336bf5ef935770e1d378c08b28163d280ba03.mp3
 episode-number: 13
 test-me : :title
 image : /assets/images/ep13.jpg

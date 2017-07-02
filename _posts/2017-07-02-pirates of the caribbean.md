@@ -5,7 +5,7 @@ title: פרק 14 - שודדי הקאריביים 1 -  קללת הפנינה הש
 movie: Pirates of the Caribbean
 imdb: tt0325980
 episode: 14
-ep-file: 
+ep-file: 8ebe58160fdb86064f4a605c2b6b84571d99faad.mp3
 episode-number: 14
 test-me : :title
 image : /assets/images/ep14.jpg

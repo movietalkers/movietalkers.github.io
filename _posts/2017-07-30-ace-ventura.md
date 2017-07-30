@@ -6,7 +6,7 @@ title: פרק 18 - אייס ונטורה - יאיר פיש מתמסחר בטיס
 movie: 300
 imdb: tt0109040
 episode: 18
-ep-file: 
+ep-file: 0da8840d8bebf4cbf3cab5f35c7ea3298832226c.mp3
 episode-number: 
 test-me : :title
 image : /assets/images/ep18.jpg

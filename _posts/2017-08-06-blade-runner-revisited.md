@@ -1,5 +1,4 @@
 ---
-published: False
 date: 2017-08-06 6:00
 layout: post
 title: פרק 19 - בלייד ראנר - מעיין ברודסקי בא לעשות צדק

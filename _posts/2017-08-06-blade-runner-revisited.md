@@ -5,7 +5,7 @@ title: פרק 19 - בלייד ראנר - מעיין ברודסקי בא לעשו
 movie: 300
 imdb: tt0083658
 episode: 19
-ep-file: 
+ep-file: 819e14b6c8a81aae7f5530d52f890de55785cf1d.mp3
 episode-number: 
 test-me : :title
 image : /assets/images/ep19.jpg

@@ -5,7 +5,7 @@ title: פרק 20 - מסיבת רווקות - אבישג פישמן מתה על �
 movie: Bridesmaids
 imdb: tt1478338
 episode: 20
-ep-file: 
+ep-file: faa494fc336ce7b63816f76bb738cf05584c8558.mp3
 episode-number: 
 test-me : :title
 image : /assets/images/ep20.jpg

@@ -7,7 +7,7 @@ movie: Wall Street
 imdb: tt0094291
 episode: 21
 ep-file: 
-episode-number: 
+episode-number: 21
 test-me : :title
 image : /assets/images/ep21.jpg
 cover : /assets/images/ep21-cover.jpg

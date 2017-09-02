@@ -6,8 +6,8 @@ title: פרק 23 - הסנדק - דורון ניר איש משפחה
 movie: The Godfather
 imdb: tt0068646
 episode: 23
-ep-file: 
-episode-number: 
+ep-file: 11707ccfb723097d7b0b2d0f965035bcb6f5da71.mp3
+episode-number: 23
 test-me : :title
 image : /assets/images/ep23.jpg
 cover : /assets/images/ep23-cover.jpg

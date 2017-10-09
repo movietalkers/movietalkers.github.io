@@ -5,7 +5,7 @@ title: פרק 25 - כמעט מפורסמים - שגיא בן צדף הוא אל 
 movie: Almost Famous
 imdb: tt0088461
 episode: 25
-ep-file: 
+ep-file: 2fb908e702e23076e86db0fcfee8385d19180cbd.mp3
 episode-number: 
 test-me : :title
 image : /assets/images/ep25.jpg

@@ -10,7 +10,7 @@ episode-number:
 test-me : :title
 image : /assets/images/ep25.jpg
 cover : /assets/images/ep25-cover.jpg
-next-week: 
+next-week: היוקרה עם גידי ליבנה
 ---
 שגיא בן צדף בחר לדבר על "הסרט הכי טוב בעולם", וגילינו כמה סיפור חייו דומה לסיפור של גיבור הסרט. בפרק נוסטלגי במיוחד התענגנו על עשורים עברו ועל תרבות הרוקנרול.
 

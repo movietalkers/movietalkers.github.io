@@ -10,7 +10,7 @@ episode-number: 26
 test-me : :title
 image : /assets/images/ep26.jpg
 cover : /assets/images/ep26-cover.jpg
-next-week: 
+next-week: טופ גן עם אריק צ'רניאק
 ---
 גידי ליבנה הוא אמן חושים, והוא הטריף לנו את כל החושים בפרק על קסמים, קוסמים מפורסמים, והצצות לעולם הסודי של הקוסמים. ספוילר: אין אגודה סודית שתהרוג אותו בעקבות הפרק הזה.
 

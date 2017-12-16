@@ -1,0 +1,30 @@
+---
+published: False
+date: 2017-12-09 11:00
+layout: post
+title: פרק 32 - 2012 - לשחר שושן נגמרה הסוללה בסוף העולם
+movie: 2012
+imdb: tt1190080
+episode: 32
+ep-file: 7d63fe4f3c97ce06e7d3150302a77dff42741411.mp3
+episode-number: 32
+test-me : :title
+image : /assets/images/ep32.jpg
+cover : /assets/images/ep32-cover.jpg
+next-week: Wall-E (2008)
+---
+
+גלים בגובה קילומטר
+
+ערים קורסות
+
+הגזע האנושי עומד להכחד
+
+נפגשנו עם שחר שושן לדבר על סוף העולם, אמינות של סרטים, טכנולוגיה, ברירה גנטית, רוסים מוגזמים ומטוסי איליושין עם כוחות קסם
+
+
+
+*דין עדיין חושב שזהר הוא לוח טקטוני*
+
+
+

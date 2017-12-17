@@ -17,14 +17,8 @@ permalink: /about/
 
 # תאהבו אותנו ברשתות חברתיות
 <div class="custom-links">
-    <a class="icon-twitter" href="https://twitter.com/MovieTalkerCast" title="פה אנחנו מצייצים">
-        <i class="fa fa-twitter"></i>
-    </a>
-    &nbsp;&nbsp;·&nbsp;&nbsp;
-    <a class="icon-facebook" href="https://facebook.com/MovieTalkerCast/" title="בקרו אותנו בפייסבוק">
-        <i class="fa fa-facebook"></i>
-    </a>
-    &nbsp;&nbsp;·&nbsp;&nbsp;
+    <a class="icon-twitter" href="https://twitter.com/MovieTalkerCast" title="פה אנחנו מצייצים"><i class="fa fa-twitter fa-4x"></i></a>
+    <a class="icon-facebook" href="https://facebook.com/MovieTalkerCast/" title="בקרו אותנו בפייסבוק"><i class="fa fa-facebook fa-4x"></i></a>
 </div>
 
 #  מי אנחנו

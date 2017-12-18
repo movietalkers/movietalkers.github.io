@@ -18,7 +18,10 @@ permalink: /about/
 # תאהבו אותנו ברשתות חברתיות
 <div class="custom-links">
     <a class="icon-twitter" href="https://twitter.com/MovieTalkerCast" title="פה אנחנו מצייצים"><i class="fa fa-twitter fa-4x"></i></a>
+     &nbsp;&nbsp;·&nbsp;&nbsp;
     <a class="icon-facebook" href="https://facebook.com/MovieTalkerCast/" title="בקרו אותנו בפייסבוק"><i class="fa fa-facebook fa-4x"></i></a>
+     &nbsp;&nbsp;·&nbsp;&nbsp;
+    <a class="subscribe" href="http://podswell.com/rss?name=movietalker"><i class="fa fa-rss fa-4x"></i>הרשמה</a>
 </div>
 
 #  מי אנחנו

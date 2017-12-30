@@ -1,11 +1,11 @@
 ---
 date: 2017-12-30 11:00
 layout: post
-title: פרק 35 - מלנכוליה - ד"ר אילן פרז מדבר על אלוהים
+title: פרק 35 - מלנכוליה - אילן פרז כבר לא מפחד מהמוות
 movie: Melancholia
 imdb: tt1527186
 episode: 35
-ep-file: 
+ep-file: 88646a55ba2412f98d8e359f7dd4aa3a026d1531.mp3
 episode-number: 35
 test-me : :title
 image : /assets/images/ep35.jpg

@@ -1,7 +1,7 @@
 ---
 date: 2018-01-07 11:00
 layout: post
-title: פרק 36 - שובו של מרטין גר - מאיה קצר מתעניינת באנשים הקטנים
+title: פרק 36 - שובו של מרטין גר - מאיה קציר מתעניינת באנשים הקטנים
 movie: The Return of Martin Guerre
 imdb: tt0084589
 episode: 36

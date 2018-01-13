@@ -1,10 +1,9 @@
 ---
-published: False
 date: 2018-01-14 11:00
 layout: post
 title: פרק 37 - מצאת החמה עד צאת הנשמה - עודד פוירשטיין חי בלילה
 movie: From Dusk Till Dawn
-imdb: tt0084589
+imdb: tt0116367
 episode: 37
 ep-file: tt0116367
 episode-number: 37

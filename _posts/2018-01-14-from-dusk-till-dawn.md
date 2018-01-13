@@ -5,7 +5,7 @@ title: פרק 37 - מצאת החמה עד צאת הנשמה - עודד פויר�
 movie: From Dusk Till Dawn
 imdb: tt0116367
 episode: 37
-ep-file: tt0116367
+ep-file: 
 episode-number: 37
 test-me : :title
 image : /assets/images/ep37.jpg

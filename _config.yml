@@ -1,7 +1,6 @@
 
 # Build settings
-gems:
-#   - jemoji # emoji plugin
+plugins:
   - jekyll-paginate
 
 # Site settings
@@ -49,48 +48,9 @@ social:
     share_title: ?t=
     share_link: "&amp;u="
 
-  # - icon:	github
-  #   url:	https://github.com/dirkfabisch
-  #   desc:	Fork me on github
-  #   share_url:
-  #   share_title:
-  #   share_link:
-
-#  - icon:	google-plus
-#    url:	https://google.com/???
-#    desc:	Add me on google+
-#    share_url:
-#    share_title:
-#    share_link:
-
-
-###############################################################
-# # Jekyll
-# theme: jekyll-theme-architect
-# highlighter: rouge
-# encoding: bom|utf-8
-
-# #Website
-# title: מדברים בסרט
-# description: ערוץ הקומנטרי של בתי הקולנוע
-# show_downloads: false
-# google_analytics: true
-
 permalink: /episodes/:title/
-# url: http://www.movietalker.com
 
 # exclude:
 #  - Gemfile
 #  - Gemfile.lock
 #  - README.md
-
-
-# twitter_username: MovieTalkerCast
-# facebook:
-#  app_id: 1521883347835573
-#  publisher: https://www.facebook.com/MovieTalkerCast/
-
-# gems:
-#  - jekyll-seo-tag
-
-# include: ['episodes']

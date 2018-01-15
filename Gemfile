@@ -4,3 +4,5 @@ source 'https://rubygems.org'
 gem 'github-pages'
 gem 'bourbon'
 # gem 'jemoji' # no need for emoji support
+
+gem 'wdm', '>= 0.1.0' if Gem.win_platform?

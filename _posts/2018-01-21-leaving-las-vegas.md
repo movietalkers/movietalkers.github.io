@@ -2,7 +2,7 @@
 published: False
 date: 2018-01-21 11:00
 layout: post
-title: פרק 38 - טלי קורל
+title: פרק 38 - טלי קורל והבנאליות של הרוע
 movie: Leaving Las Vegas
 imdb: tt0113627
 episode: 38

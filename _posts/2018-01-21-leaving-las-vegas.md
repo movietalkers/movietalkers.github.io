@@ -5,7 +5,7 @@ title: פרק 38 - טלי קורל והבנאליות של הרוע
 movie: Leaving Las Vegas
 imdb: tt0113627
 episode: 38
-ep-file: 
+ep-file: 9dbeb861d5c09da0ae7bf8a3e54061135d9a06f8.mp3
 episode-number: 38
 test-me : :title
 image : /assets/images/ep38.jpg

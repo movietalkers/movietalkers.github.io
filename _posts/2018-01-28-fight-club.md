@@ -2,7 +2,7 @@
 published: False
 date: 2018-01-28 11:00
 layout: post
-title: פרק 39 - תומר אביטל, גיבור על עטוי סנדלים
+title: פרק 39 - תומר אביטל גיבור על עטוי סנדלים
 movie: Leaving Las Vegas
 imdb: tt0137523
 episode: 39

@@ -2,11 +2,11 @@
 published: False
 date: 2018-01-28 11:00
 layout: post
-title: 
+title: פרק 39 - תומר אביטל, גיבור על עטוי סנדלים
 movie: Leaving Las Vegas
 imdb: tt0137523
 episode: 39
-ep-file: 
+ep-file: 3d4a214f74d38d7ce6aae571edf8d1778b65713b.mp3
 episode-number: 39
 test-me : :title
 image : /assets/images/ep39.jpg

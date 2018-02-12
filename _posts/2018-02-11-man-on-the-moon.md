@@ -2,7 +2,7 @@
 published: True
 date: 2018-02-11 11:00
 layout: post
-title: פרק 41
+title: פרק 41 - רחלי רוטנר לא מדברת עם זרים
 movie: Man on the Moon
 imdb: tt0137523
 episode: 41
@@ -11,7 +11,7 @@ episode-number: 41
 test-me : :title
 image : /assets/images/ep41.jpg
 cover : /assets/images/ep41-cover.jpg
-next-week: Requiem for a Dream (1999)
+
 ---
 רחלי רוטנר היא יוצרת, כותבת, ציירת, קומיקסאית ועיתונאית.
 עם עבר עשיר בוואלה ובמאקו רחלי עשתה מאות כתבות וידאו ופרויקטים הומוריסטיים, וכתבה לתכניות טלוויזיה מוכרות בפריים טיים.

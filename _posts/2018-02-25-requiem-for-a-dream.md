@@ -1,6 +1,6 @@
 ---
 published: True
-date: 2018-02-18 11:00
+date: 2018-02-25 11:00
 layout: post
 title: פרק 43 - אריאל אסרף טובע בחרא
 movie: Requiem for a Dream

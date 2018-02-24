@@ -2,11 +2,11 @@
 published: True
 date: 2018-02-25 11:00
 layout: post
-title: פרק 43 - אריאל אסרף טובע בחרא
+title: פרק 43 - אריאל אסרף טובע בחרא ושר
 movie: Requiem for a Dream
 imdb: tt0180093
 episode: 43
-ep-file: 
+ep-file: 6bb2467fabf2384cdd079f5528207977c480cc6d.mp3
 episode-number: 43
 test-me : :title
 image : /assets/images/ep43.jpg

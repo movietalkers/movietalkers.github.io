@@ -6,7 +6,7 @@ title: פרק 45 - איגור ארמיאץ' מסביר מה זה מין טוב
 movie: Arachnophobia
 imdb: tt0099052
 episode: 45
-ep-file: f39eccd39d84b6f3fb4a5aa27f5d829332cd641e.mf39eccd39d84b6f3fb4a5aa27f5d829332cd641e.mp3
+ep-file: mf39eccd39d84b6f3fb4a5aa27f5d829332cd641e.mp3
 episode-number: 45
 test-me : :title
 image : /assets/images/ep45.jpg

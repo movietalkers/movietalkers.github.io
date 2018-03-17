@@ -6,7 +6,7 @@ title: פרק 46 - דן-יה שוורץ בר-אל היא לסבית הטרונו
 movie: Scott Pilgrim vs. the World
 imdb: tt0446029
 episode: 46
-ep-file: 
+ep-file: cd67c0c94f31e5462be91b8e5fa3d130fe1d5566.mp3
 episode-number: 46
 test-me : :title
 image : /assets/images/ep46.jpg

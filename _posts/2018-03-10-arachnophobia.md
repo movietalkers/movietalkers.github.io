@@ -1,6 +1,6 @@
 ---
 published: True
-date: 2018-03-04 11:00
+date: 2018-03-11 11:00
 layout: post
 title: פרק 45 - איגור ארמיאץ' מסביר מה זה מין טוב 
 movie: Arachnophobia

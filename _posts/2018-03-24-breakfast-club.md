@@ -6,7 +6,7 @@ title: פרק 47 - איתי גולדה עושה שידוכים
 movie: Breakfast Club
 imdb: tt0088847
 episode: 47
-ep-file:
+ep-file: 8b1d15aa71e5a7906d8c6141188daed916035f95.mp3
 episode-number: 47
 test-me : :title
 image : /assets/images/ep47.jpg

@@ -6,7 +6,7 @@ title: פרק 49 - רן בר זיק שובר שיאים
 movie: Roboshark
 imdb: tt4443784
 episode: 49
-ep-file: 8b1d15aa71e5a7906d8c6141188daed916035f95.mp3
+ep-file: 6ac7871612fcb505807879e0c44a8e9b7cdbdb33.mp3
 episode-number: 49
 test-me : :title
 image : /assets/images/ep49.jpg
@@ -40,4 +40,3 @@ cover : /assets/images/ep49-cover.jpg
 * רן חשב שצחי נוי הוא שחקן גרמני מהארטיאל
 * זהר מנסה להתחבר לפרטנר טיוי
 * תחושות האלוהות כשאתה מפעיל את העולם האמיתי בעזרת קוד
-* [רן הוא במאי ויוצר סרטים]()

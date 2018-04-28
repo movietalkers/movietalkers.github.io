@@ -6,7 +6,7 @@ title: פרק 50 - שירלי צ'רלי קליינמן גולש.ת על הקשת
 movie: Paris Is Burning
 imdb: tt0100332
 episode: 50
-ep-file:
+ep-file: dd447e4aab2e6f6b3ee653ff72d3ad53e14f7fa5.mp3
 episode-number: 50
 test-me : :title
 image : /assets/images/ep50.jpg

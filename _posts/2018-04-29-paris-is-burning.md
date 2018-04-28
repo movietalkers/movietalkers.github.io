@@ -37,5 +37,5 @@ cover : /assets/images/ep50-cover.jpg
 * **התנהגות מינית** - גבר הטרוסקסואל לא פחות נמשך לנשים אם הוא בתול למשל.
 * [Instagram - the_genderblender](https://www.instagram.com/the_genderblender/?hl=en)
 * [Facebook](https://www.facebook.com/TheKleinman)
-* michamwod@gmail.com
+* michamood [AT] gmail.com
 

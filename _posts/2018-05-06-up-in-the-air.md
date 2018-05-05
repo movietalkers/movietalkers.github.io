@@ -6,7 +6,7 @@ title: פרק 51 - ליאור מנור עושה קסמים באוויר
 movie: Paris Is Burning
 imdb: tt1193138
 episode: 51
-ep-file: .mp3
+ep-file: c60cfca4ec2f0932c4e170ca587907c0af383dd9.mp3
 episode-number: 51
 test-me : :title
 image : /assets/images/ep51.jpg

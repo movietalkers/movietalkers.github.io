@@ -3,7 +3,7 @@ published: True
 date: 2018-05-06 11:00
 layout: post
 title: פרק 51 - ליאור מנור עושה קסמים באוויר
-movie: Paris Is Burning
+movie: Up in the Air
 imdb: tt1193138
 episode: 51
 ep-file: c60cfca4ec2f0932c4e170ca587907c0af383dd9.mp3
